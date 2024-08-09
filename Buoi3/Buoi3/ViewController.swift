@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var bottomGreenView: UIView!
     
     @IBOutlet weak var bottomLeftLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
